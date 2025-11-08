@@ -4,10 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Sourin+👋;I+like+to+code+and+learn+new+things+🚀;Python+%7C+C+%7C+C%2B%2B+%7C+Linux+User+🐧" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sourin+Das+%F0%9F%91%8B;I+love+to+code+and+learn+new+things+%F0%9F%92%BB;Python+%E2%80%A2+C+%E2%80%A2+C%2B%2B;Linux+User+%F0%9F%90%A7;Games+%F0%9F%8E%AE+%7C+Coding+Experiments+%F0%9F%A7%AA" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">Hi, I'm Sourin Das 👋</h1>
 <p align="center">
