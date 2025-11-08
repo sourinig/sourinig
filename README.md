@@ -3,6 +3,11 @@
   <img src="https://raw.githubusercontent.com/sourinig/sourinig/main/banner.png" height="200px" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Sourin+👋;I+like+to+code+and+learn+new+things+🚀;Python+%7C+C+%7C+C%2B%2B+%7C+Linux+User+🐧" alt="Typing SVG" />
+  </a>
+</p>
 
 <h1 align="center">Hi, I'm Sourin Das 👋</h1>
 <p align="center">
