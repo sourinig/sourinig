@@ -1,8 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <!-- Replace with your banner path or remove this line -->
-  <img src="assets/banner.png" alt="Sourin Das Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/sourinig/sourinig/main/banner.png" width="100%" />
 </p>
+
 
 <h1 align="center">Hi, I'm Sourin Das 👋</h1>
 <p align="center">
