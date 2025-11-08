@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About me
-- 🐧 Daily driver: **Linux Mint / Ubuntu**
+- 🐧 Daily driver: **Windows 11 / Linux Mint / Ubuntu**
 - 📚 Learning: **Data Analytics • Generative AI • Big Data basics**
 - 🧩 I like building small projects to learn fast and have fun
 - 🎯 Goal: become a solid **Data/Analytics Engineer**
