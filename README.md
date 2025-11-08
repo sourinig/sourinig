@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sourinig/sourinig/main/banner.png" height="230px" />
+  <img src="https://raw.githubusercontent.com/sourinig/sourinig/main/banner.png" height="200px" />
 </p>
 
 
