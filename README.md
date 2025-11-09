@@ -1,4 +1,10 @@
 <!-- Banner -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=1200&pause=700&color=00FFC8&center=true&vCenter=true&width=650&height=60&lines=H%CE%B9%2C+I%27m+S%CE%BF%CF%85%CF%81%CE%B9%CE%BD+%F0%9F%91%8B;L%CE%B9n%CF%85x+%CE%A5ser+%F0%9F%90%A7;Pyth%CE%BFn+%7C+C+%7C+C%2B%2B;C%CF%8Fding+Exp%CE%B5riments+%F0%9F%A7%AA;G%CE%91m%CE%B5s+%F0%9F%8E%AE" />
+</p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sourin+Das+%F0%9F%91%8B;I+love+to+code+and+learn+new+things+%F0%9F%92%BB;Python+%E2%80%A2+C+%E2%80%A2+C%2B%2B;Linux+User+%F0%9F%90%A7;Games+%F0%9F%8E%AE+%7C+Coding+Experiments+%F0%9F%A7%AA" alt="Typing SVG" />
 </p>
