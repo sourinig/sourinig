@@ -1,8 +1,9 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=1200&pause=700&color=00FFC8&center=true&vCenter=true&width=650&height=60&lines=H%CE%B9%2C+I%27m+S%CE%BF%CF%85%CF%81%CE%B9%CE%BD+%F0%9F%91%8B;L%CE%B9n%CF%85x+%CE%A5ser+%F0%9F%90%A7;Pyth%CE%BFn+%7C+C+%7C+C%2B%2B;C%CF%8Fding+Exp%CE%B5riments+%F0%9F%A7%AA;G%CE%91m%CE%B5s+%F0%9F%8E%AE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=1400&pause=700&color=00FF9C&center=true&vCenter=true&width=600&height=60&lines=$+Hi%2C+I'm+Sourin+Das;_$+Python+%7C+C+%7C+C%2B%2B;_$+Linux+Enthusiast+%F0%9F%90%A7;_$+I+Love+To+Build+%F0%9F%9A%80;_$+Games+%7C+Coding+Experiments+%F0%9F%A7%AA" />
 </p>
+
 
 
 <p align="center">
