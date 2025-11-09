@@ -1,8 +1,11 @@
 <!-- Banner -->
 
+<br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=1400&pause=700&color=00FF9C&center=true&vCenter=true&width=600&height=60&lines=$+Hi%2C+I'm+Sourin+Das;_$+Python+%7C+C+%7C+C%2B%2B;_$+Linux+Enthusiast+%F0%9F%90%A7;_$+I+Love+To+Build+%F0%9F%9A%80;_$+Games+%7C+Coding+Experiments+%F0%9F%A7%AA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=1800&pause=900&color=00FFCC&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Sourin+Das+%F0%9F%91%8B;Linux+User+%F0%9F%90%A7+%7C+Python+%E2%80%A2+C+%E2%80%A2+C%2B%2B;I+love+Coding+%F0%9F%92%BB+and+Exploring+New+Things+%F0%9F%8E%AF;Games+%F0%9F%8E%AE+%7C+Coding+Experiments+%F0%9F%A7%AA" alt="Typing SVG" />
 </p>
+
 
 
 
